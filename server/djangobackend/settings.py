@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost"]
+ALLOWED_HOSTS = ["localhost","alyap111-oc.us-south.cf.appdomain.cloud"]
 
 
 # Application definition
